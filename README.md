@@ -7,6 +7,6 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/24409-hessian-based-frangi-v
 can be used for .nii and .DICOM files  
 can also test with the given test image "vessel.png" in MATLAB code using those annotated code  
 
-#dataprepocess.py
-1.doing skull striped refer to label file.
-2.bias field correction
+#dataprepocess.py  
+1.doing skull striped refer to label file.  
+2.bias field correction.  

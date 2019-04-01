@@ -1,5 +1,5 @@
 #FrangiFilter.py 
-try to write a FrangiFilter(2D and 3D) with python refer to:  
+try to write a 2D and 3D(hasn't be finished yet) FrangiFilter with python refer to:  
 1.the paper:  
 Frangi A F, Niessen W J, Vincken K L, et al. Multiscale vessel enhancement filtering[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer Berlin Heidelberg, 1998: 130-137  
 2.the MATLAB code:  
